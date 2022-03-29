@@ -16,6 +16,8 @@ body {
 }
 
 ::selection {
-    background-color: $color-background;
-    color: $color-white;
+    background-color: $color-white;
+    color: $default-color-text;
+    size: $default-font-size;
+    font-weight: $default-font-weight;
 }
